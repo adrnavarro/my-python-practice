@@ -19,7 +19,7 @@ To stop the script, select the 'Exit' option from the menu or press Ctrl+C.
 
 import sys
 import numpy as np
-from modules.vector_operations import (
+from modules.vetor_operations import (
     add_vectors, subtract_vectors, multiply_vectors, divide_vectors,
     dot_product, cross_product, calculate_magnitude, calculate_distance,
     normalize_vector, amplify_vector, calculate_manhattan_norm
