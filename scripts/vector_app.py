@@ -25,7 +25,7 @@ Notes:
 
 import sys
 import numpy as np
-from modules.vetor_operations import (
+from modules.vector_operations import (
     add_vectors, subtract_vectors, multiply_vectors, divide_vectors,
     dot_product, cross_product, calculate_magnitude, calculate_distance,
     normalize_vector, amplify_vector, calculate_manhattan_norm
